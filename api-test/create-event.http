@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R1c2VyQGdtYWlsLmNvbSIsImV4cCI6MTc0NDIxMDM2NywidXNlcklkIjoxfQ.O44zeAxc5tJp2wHmeXmWjdarXqzODHLCYEKF6ntMZQI
+
+{
+  "name": "Munga events 56",
+  "description": "This is a test event 2",
+  "location": "Test location 2",
+  "dateTime": "2025-10-01T10:00:00Z"
+}
